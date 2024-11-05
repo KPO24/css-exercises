@@ -1,0 +1,23 @@
+/* style.css */
+
+.first {
+    background-color: #ffa7a7;
+    color: black;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    
+
+}
+
+#even {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#fontsize {
+    font-size: 24px;
+}
+
+#background {
+    background-color: #80ff80;
+    font-size:  24px;
+}
